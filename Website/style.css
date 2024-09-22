@@ -1,0 +1,30 @@
+body {
+    font-family: "Sintony", sans-serif;
+    color: #eaf2e3;
+    background-color: #3a2c41;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+}
+.container {
+    width: 90%;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+h1, h2 {
+    color: #c0a672;
+}
+a {
+    color: #c0a672;
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
+.section {
+    background-color: #70557e;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+}
